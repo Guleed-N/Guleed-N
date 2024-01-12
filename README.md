@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Guleed-N
-- 🌱 I’m currently learning Python and Django
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: https://www.linkedin.com/in/guleed-nuh-493202247/
 
 <!---
